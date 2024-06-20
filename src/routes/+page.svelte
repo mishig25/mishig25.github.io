@@ -21,7 +21,7 @@ I'm a software & ML engineer. I've received my education at [Colorado College](h
 
 Here are some of the highlights:
 
-* [diffusers#559](https://github.com/huggingface/diffusers/pull/559): jax/flax implementation of Stable Diffusion 1.1, which powered 
+* [diffusers#559](https://github.com/huggingface/diffusers/pull/559): jax/flax implementation of Stable Diffusion 1.1.
 
 * [tokenizers#976](https://github.com/huggingface/tokenizers/pull/976): parallelize [unigram tokenization](https://huggingface.co/learn/nlp-course/en/chapter6/7) trainer using [rayon](https://crates.io/crates/rayon), a popular Rust parallelization crate.
 
