@@ -15,11 +15,19 @@ hf: [@mishig](https://huggingface.co/mishig)
 lin: [@mishig](https://www.linkedin.com/in/mishig/)
 </div>
 
-I'm a software & ML engineer. I've received my education at [Colorado College](https://www.coloradocollege.edu/), where I've majored in [Computer Science](https://www.coloradocollege.edu/academics/curriculum/catalog/departmental/computer-science/index.html). Since the summer of 2021, I've been part of a team building the [Hugging Face Hub](https://huggingface.co/) and frequently contributing to [Hugging Face's open-source Machine Learning libraries](https://github.com/huggingface).
+I'm a software & ML engineer. I received my bachelor's degree in [computer science](https://www.coloradocollege.edu/academics/curriculum/catalog/departmental/computer-science/index.html) from [Colorado College](https://www.coloradocollege.edu/) in 2019. Since the summer of 2021, I've been part of a team building the [Hugging Face Hub](https://huggingface.co/) and contributing to [Hugging Face's open-source Machine Learning libraries](https://github.com/huggingface).
 
 <div class="ml-4">
 
 Here are some of the highlights:
+
+* Built various aspects of [Hugging Face Hub](https://huggingface.co/), making it the de facto platform for sharing models and datasets. Used typescript, svelte, mongodb, express. The features I've worked on are: 
+
+<div class="ml-4 text-sm">
+
+[full-text search](https://huggingface.co/search), [inference widgets](https://huggingface.co/facebook/detr-resnet-50), [file uploading](https://huggingface.co/stabilityai/stable-diffusion-3-medium/upload/main), [code editor](https://huggingface.co/stabilityai/stable-diffusion-3-medium/edit/main/README.md), [weights visualizer](https://huggingface.co/bartowski/Codestral-22B-v0.1-GGUF?show_file_info=Codestral-22B-v0.1-Q3_K_M.gguf), [blog writing & publishing platform](https://huggingface.co/blog).
+
+</div>
 
 * [diffusers#559](https://github.com/huggingface/diffusers/pull/559): jax/flax implementation of Stable Diffusion 1.1.
 
@@ -38,19 +46,6 @@ Here are some of the highlights:
 * [huggingface/gguf.js](https://github.com/huggingface/huggingface.js/tree/main/packages/gguf): js [GGUF](https://github.com/ggerganov/ggml/blob/master/docs/gguf.md) parser that works on remotely hosted files. GGUF is a weights file format, created by Georgi Gerganov (the creator of [llama.cpp](https://github.com/ggerganov/llama.cpp)).
 
 * [diffuse-the-rest](https://x.com/mishig25/status/1563226161924407298): a web app that uses Stable Diffusion ([diffusers#559](https://github.com/huggingface/diffusers/pull/559) backend) to turn sketches into higher-quality images. One of the first apps to go viral that used Stable Diffusion (Aug 2022).
-
-* Built various aspects of [Hugging Face Hub](https://huggingface.co/), making it the de facto platform for sharing models and datasets. Mostly, used svelte, mongodb, typescript. The features I've worked on are: 
-
-<div class="ml-4 text-sm">
-
-    * [full-text search](https://huggingface.co/search)
-    * [inference widgets](https://huggingface.co/facebook/detr-resnet-50)
-    * [file uploading](https://huggingface.co/stabilityai/stable-diffusion-3-medium/upload/main)
-    * [code editor](https://huggingface.co/stabilityai/stable-diffusion-3-medium/edit/main/README.md)
-    * [weights visualizer](https://huggingface.co/bartowski/Codestral-22B-v0.1-GGUF?show_file_info=Codestral-22B-v0.1-Q3_K_M.gguf)
-    * [blog writing & publishing platform](https://huggingface.co/blog)
-
-</div>
 
 </div>
 
