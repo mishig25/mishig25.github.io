@@ -31,13 +31,13 @@ Here are some of the highlights:
 
 * [diffusers#559](https://github.com/huggingface/diffusers/pull/559): jax/flax implementation of Stable Diffusion 1.1.
 
-* [tokenizers#976](https://github.com/huggingface/tokenizers/pull/976): parallelize [unigram tokenization](https://huggingface.co/learn/nlp-course/en/chapter6/7) trainer using [rayon](https://crates.io/crates/rayon), a popular Rust parallelization crate.
+* [tokenizers#890](https://github.com/huggingface/tokenizers/pull/890): improve serialization/deserialization of [tokenizers](https://github.com/huggingface/tokenizers) through Rust macros that implement necessary [serde](https://crates.io/crates/serde) traits.
 
 * [huggingface/chat-ui](https://github.com/huggingface/chat-ui): UI for chatting with LLMs (used svelte, mongodb, typescript). Supports tool calling (image generation) & RAG (websearch, document extraction).
 
 * [transformers#13828](https://github.com/huggingface/transformers/pull/13828): image segmentation pipeline implementation for [facebook/detr-resnet-50](https://huggingface.co/facebook/detr-resnet-50) & other models that can do image segmentation.
 
-* [tokenizers#890](https://github.com/huggingface/tokenizers/pull/890): improve serialization/deserialization of [tokenizers](https://github.com/huggingface/tokenizers) through Rust macros that implement necessary [serde](https://crates.io/crates/serde) traits.
+* [tokenizers#976](https://github.com/huggingface/tokenizers/pull/976): parallelize [unigram tokenization](https://huggingface.co/learn/nlp-course/en/chapter6/7) trainer using [rayon](https://crates.io/crates/rayon), a popular Rust parallelization crate.
 
 * [lerobot#277](https://github.com/huggingface/lerobot/pull/277): robotics dataset (videos & sensor signals) visualizer for easily testing & debugging real-life robitics. 
 
