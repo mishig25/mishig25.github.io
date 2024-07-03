@@ -21,7 +21,7 @@ I'm a software & ML engineer. I received my bachelor's degree in [computer scien
 
 Here are some of the highlights:
 
-* Built various aspects of [Hugging Face Hub](https://huggingface.co/), making it the de facto platform for sharing models and datasets. Used typescript, svelte, mongodb, express. The features I've worked on are: 
+* Built various aspects of [Hugging Face Hub](https://huggingface.co/), making it the de facto platform for sharing models and datasets. Used typescript, svelte, tailwindcss, mongodb, express. The features I've worked on are: 
 
 <div class="ml-4 text-sm">
 
@@ -33,7 +33,7 @@ Here are some of the highlights:
 
 * [tokenizers#890](https://github.com/huggingface/tokenizers/pull/890): improve serialization/deserialization of [tokenizers](https://github.com/huggingface/tokenizers) through Rust macros that implement necessary [serde](https://crates.io/crates/serde) traits.
 
-* [huggingface/chat-ui](https://github.com/huggingface/chat-ui): UI for chatting with LLMs (used svelte, mongodb, typescript). Supports tool calling (image generation) & RAG (websearch, document extraction).
+* [huggingface/chat-ui](https://github.com/huggingface/chat-ui): UI for chatting with LLMs (used svelte, tailwindcss, mongodb, typescript). Supports tool calling (image generation) & RAG (websearch, document extraction).
 
 * [transformers#13828](https://github.com/huggingface/transformers/pull/13828): image segmentation pipeline implementation for [facebook/detr-resnet-50](https://huggingface.co/facebook/detr-resnet-50) & other models that can do image segmentation.
 
