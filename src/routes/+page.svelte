@@ -4,6 +4,8 @@
 
 <span>dmishig@gmail.com</span>
 
+<a href="https://mishig25.github.io/">https://mishig25.github.io/</a>
+
 <div class="flex gap-4">
 
 gh: [@mishig25](https://github.com/mishig25)
