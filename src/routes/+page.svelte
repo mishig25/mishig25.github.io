@@ -27,7 +27,7 @@ Here are some of the highlights:
 
 <div class="ml-4 text-sm">
 
-[full-text search](https://huggingface.co/search), [inference widgets](https://huggingface.co/facebook/detr-resnet-50), [file uploading](https://huggingface.co/stabilityai/stable-diffusion-3-medium/upload/main), [code editor](https://huggingface.co/stabilityai/stable-diffusion-3-medium/edit/main/README.md), [weights visualizer](https://huggingface.co/bartowski/Codestral-22B-v0.1-GGUF?show_file_info=Codestral-22B-v0.1-Q3_K_M.gguf), [blog writing & publishing platform](https://huggingface.co/blog).
+[semantic search over 50k+ community submitted apps](https://huggingface.co/spaces), [full-text search](https://huggingface.co/search), [chat-ui](https://huggingface.co/chat/), [file uploading](https://huggingface.co/stabilityai/stable-diffusion-3-medium/upload/main), [code editor](https://huggingface.co/stabilityai/stable-diffusion-3-medium/edit/main/README.md), [weights visualizer](https://huggingface.co/bartowski/Codestral-22B-v0.1-GGUF?show_file_info=Codestral-22B-v0.1-Q3_K_M.gguf), [blog writing & publishing platform](https://huggingface.co/blog).
 
 </div>
 
